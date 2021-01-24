@@ -1,16 +1,27 @@
-### Hi there 👋
+## Unicornbank.io
 
-<!--
-**avshiliaev/avshiliaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/avshiliaev/cyan-delivery
 
-Here are some ideas to get you started:
+## C# Design Patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/avshiliaev/DesignPatterns
+
+## Deployment Concept
+
+https://github.com/avshiliaev/devops-deployment-options
+
+## k8s Basics
+
+https://github.com/avshiliaev/devops-k8s-basics
+
+## PyPi
+
+https://github.com/avshiliaev/devops-pypi
+
+## Angular Ideomatic Client
+
+https://github.com/avshiliaev/frontend-angular-idiomatic-client
+
+## Angular Components Library
+
+https://github.com/avshiliaev/frontend-library-angular-csv-upload
