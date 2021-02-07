@@ -1,3 +1,5 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=avshiliaev&&style=flat-square)  
+
 ## Hey 👋, I'm Artem Shiliaev!  
   
 
@@ -116,18 +118,3 @@ Pure Python Constraints Optimization Solver
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=avshiliaev&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
