@@ -27,47 +27,12 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 ## My Projects  
 
-
-### System Design  
-[CQRS Event Sourcing Microservices Examaple App](https://github.com/avshiliaev/cyan-delivery)  
-  
-
-
-
 ### OO Programming  
-[C# Design Patterns](https://github.com/avshiliaev/DesignPatterns)  
+[OO Design patterns in C#](https://github.com/avshiliaev/DesignPatterns)  
   
-
-
-
 ### Data Strucutres and Algorithms  
-Pure Python Constraints Optimization Solver  
+[Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
   
-
-
-
-### Frameworks  
-[Angular Ideomatic Client](https://github.com/avshiliaev/frontend-angular-idiomatic-client)
-
-[Angular Components Library](https://github.com/avshiliaev/frontend-library-angular-csv-upload)
-
-[GQL + Django](https://github.com/avshiliaev/backend-gql-django_graphene)
-
-[NestJS](https://github.com/avshiliaev/backend-nestjs)
-
-[Python PyPi Library ](https://github.com/avshiliaev/devops-pypi)  
-  
-
-
-
-### DevOps  
-[Kubernetes Beginner Introduction](https://github.com/avshiliaev/devops-k8s-basics)
-
-[Delpoyment Options](https://github.com/avshiliaev/devops-deployment-options)
-
-[Docker-Compose to k8s Migration](https://github.com/avshiliaev/devops-kompose)  
-  
-
 <br/>  
 
 
