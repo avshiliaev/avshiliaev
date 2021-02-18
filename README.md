@@ -29,6 +29,7 @@ I am really into Typescript, Python, C# and how they enable a developer to build
   
 ### Data Strucutres and Algorithms  
 [Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
+[Python Polya Enumeration sover](https://github.com/avshiliaev/polya-enumeration-solver)
   
 <br/>  
 
