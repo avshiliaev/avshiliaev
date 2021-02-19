@@ -12,6 +12,9 @@
 <a href="https://stackoverflow.com/users/10202443" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/avshiliaev/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="128">
+</a>  
 
 <br/>  
   
