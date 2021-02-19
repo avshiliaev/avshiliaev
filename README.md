@@ -22,7 +22,7 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 <br/>  
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg">](https://leetcode.com/avshiliaev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="48">](https://leetcode.com/avshiliaev/)
 
 <br/> 
 
