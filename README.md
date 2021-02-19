@@ -24,7 +24,7 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 ## My Projects  
 
-### OO Programming  
+### OO Programming and Clean Code 
 
 1. [OO Design patterns in C#](https://github.com/avshiliaev/DesignPatterns)  
   
