@@ -12,7 +12,8 @@
 <a href="https://stackoverflow.com/users/10202443" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
+
+<br/>  
   
 I am a Software Engineer working on solutions for industrial analytics.
 
@@ -21,6 +22,9 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 <br/>  
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+<br/> 
 
 ## My Projects  
 
