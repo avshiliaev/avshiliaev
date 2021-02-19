@@ -35,7 +35,7 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 ### System Design and Frameworks
 
-Comming soon...
+1. Comming soon...
 
 ### DevOps
 
