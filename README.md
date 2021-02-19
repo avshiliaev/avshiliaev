@@ -35,7 +35,7 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 ### System Design and Frameworks
 
-1. [Angular: a simple ideomatic Angular client based course booking app.](https://github.com/avshiliaev/frontend-angular-idiomatic-client/settings)
+1. [Angular: a simple ideomatic Angular based course booking app.](https://github.com/avshiliaev/frontend-angular-idiomatic-client/settings)
 
 ### DevOps
 
