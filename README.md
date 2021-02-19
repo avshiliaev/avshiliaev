@@ -21,9 +21,7 @@
 I am a Software Engineer working on solutions for industrial analytics.
 
 I am really into Typescript, Python, C# and how they enable a developer to build strong, flexible and highly scalable web application. My tech stack includes Angular, React, Asp.NetCore NodeJS. I also perform some Data Science every once in a while and can integrate the SciPy stack as well as Tensorflow into my workflow.  
-  
 
-<br/>  
 
 ## My Projects  
 
