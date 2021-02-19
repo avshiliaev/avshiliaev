@@ -1,7 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=avshiliaev&&style=flat-square)  
 
 ## Hey 👋, I'm Artem Shiliaev!  
-  
 
 <a href="https://github.com/avshiliaev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,7 +21,6 @@ I am a Software Engineer working on solutions for industrial analytics.
 
 I am really into Typescript, Python, C# and how they enable a developer to build strong, flexible and highly scalable web application. My tech stack includes Angular, React, Asp.NetCore NodeJS. I also perform some Data Science every once in a while and can integrate the SciPy stack as well as Tensorflow into my workflow.  
 
-
 ## My Projects  
 
 ### OO Programming and Clean Code 
@@ -38,9 +36,6 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 ### DevOps
 
 1. [Kubernetes: QuickStart quide for local development](https://github.com/avshiliaev/devops-k8s-basics)  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -73,8 +68,6 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
 </div>  
-
-<br/>  
 
 
 ## Github Stats  
