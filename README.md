@@ -25,15 +25,14 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 ## My Projects  
 
 ### OO Programming  
-[OO Design patterns in C#](https://github.com/avshiliaev/DesignPatterns)  
+
+1. [OO Design patterns in C#](https://github.com/avshiliaev/DesignPatterns)  
   
 ### Data Strucutres and Algorithms  
 
-[Constraint Programming: Python implementation of the Dinic's Algorithms for the Maximum Flow Problem](https://github.com/avshiliaev/maximum-flow-solver)
-
-[Constraint Programming: Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
-
-[Group Theory: Python Polya Enumeration sover](https://github.com/avshiliaev/polya-enumeration-solver)
+1. [Constraint Programming: Python implementation of the Dinic's Algorithms for the Maximum Flow Problem](https://github.com/avshiliaev/maximum-flow-solver)
+1. [Constraint Programming: Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
+1. [Group Theory: Python Polya Enumeration sover](https://github.com/avshiliaev/polya-enumeration-solver)
   
 <br/>  
 
