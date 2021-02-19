@@ -28,8 +28,8 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 [OO Design patterns in C#](https://github.com/avshiliaev/DesignPatterns)  
   
 ### Data Strucutres and Algorithms  
-[Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
-[Python Polya Enumeration sover](https://github.com/avshiliaev/polya-enumeration-solver)
+[Constraint Programming: Pure python constraint satisfaction solver](https://github.com/avshiliaev/constraint-satisfaction-solver)  
+[Group Theory: Python Polya Enumeration sover](https://github.com/avshiliaev/polya-enumeration-solver)
   
 <br/>  
 
