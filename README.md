@@ -35,8 +35,9 @@ I am really into Typescript, Python, C# and how they enable a developer to build
 
 ### System Design and Frameworks
 
+1. [A sample implementation of a online bank app: Microservices, CQRS, Domain-Driven Design, REST, Event-Driven.](https://github.com/avshiliaev/unicorn-bank-example-app)
 1. [Angular: a simple ideomatic Angular based course booking app.](https://github.com/avshiliaev/frontend-angular-idiomatic-client/settings)
-2. [PyPi: Absolute minimum needed to publish a python PyPi package.](https://github.com/avshiliaev/minimal-pypi-implementation)
+1. [PyPi: Absolute minimum needed to publish a python PyPi package.](https://github.com/avshiliaev/minimal-pypi-implementation)
 
 ### DevOps
 
