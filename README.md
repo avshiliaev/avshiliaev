@@ -17,9 +17,9 @@
 
 <br/>  
   
-I am a Software Engineer working on solutions for industrial analytics.
+I am a Software Engineer working primarily with solutions for industrial analytics. 
 
-I am really into Typescript, Python, C# and how they enable a developer to build strong, flexible and highly scalable web application. My tech stack includes Angular, React, Asp.NetCore NodeJS. I also perform some Data Science every once in a while and can integrate the SciPy stack as well as Tensorflow into my workflow.  
+My stack includes **Golang**, **Python**, and **Node.js**, among others. I am involved in developing microservices-based **event-driven** systems. My principal concern is enabling the collection of real-time data from edge devices and the subsequent **stream processing** based on **Kafka**. My interests and responsibilities also include managing **Kubernetes** workloads with custom operators in a hybrid cloud environment. 
 
 ## My Projects  
 
