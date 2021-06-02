@@ -19,7 +19,7 @@
   
 I am a Software Engineer working primarily with solutions for industrial analytics. 
 
-My stack includes **Golang**, **Python**, and **Node.js**, among others. I am involved in developing microservices-based **event-driven** systems. My principal concern is enabling the collection of real-time data from edge devices and the subsequent **stream processing** based on **Kafka**. My interests and responsibilities also include managing **Kubernetes** workloads with custom operators in a hybrid cloud environment. 
+I am working on the backend side of a scalable SaaS-oriented distributed system based on microservices. Building a data-driven product on top of IoT edge devices, I'm working closely with data analytics, batch processing and stream processing. Being in a cross-functional team, I regularly collaborate on other technical issues like Site Reliability Engineering and DevOps, maintaining SQL and NoSQL databases. I also perform Linux troubleshooting and operate cloud environments. A huge part of my daily work also includes debugging performance, test automation for regression and unit tests.
 
 ## My Projects  
 
